@@ -1,0 +1,32 @@
+[
+  {
+    "modelo":"PK1",
+    "ruta":"Es una PK1",
+    "version":"3.5.5"
+  },
+  {
+    "modelo":"PK2",
+    "ruta":"Es una PK2",
+    "version":"3.5.5"
+  },
+  {
+    "modelo":"PK2++",
+    "ruta":"Es una PK2++",
+    "version":"3.5.5"
+  },
+  {
+    "modelo":"PK3",
+    "ruta":"Es una PK3",
+    "version":"3.5.5"
+  },
+  {
+    "modelo":"PK3++",
+    "ruta":"Es una PK3++",
+    "version":"3.5.5"
+  },
+  {
+    "modelo":"PK3++ EXTENDIDA",
+    "ruta":"Es una PK3++ E",
+    "version":"3.5.5"
+  }
+]
