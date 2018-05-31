@@ -59,7 +59,7 @@
       "Oled":"PK2++,NO,Oled"
     }
   },
-  "PK3++_EXTENDIDA":{
+  "PK3++ EXTENDIDA":{
     "Con_sensor":{
       "LCD (RepRap)":"PK3++_EXTENDIDA,SI,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK3++_EXTENDIDA,SI,Tactil (Kuttercraft)",
