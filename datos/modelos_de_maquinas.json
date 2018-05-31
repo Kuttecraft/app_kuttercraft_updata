@@ -1,71 +1,71 @@
 {
   "PK1":{
-    "Con_sensor":{
+    "SI":{
       "LCD (RepRap)":"PK1,SI,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK1,SI,Tactil (Kuttercraft)",
       "Oled":"PK1,SI,Oled"
     },
-    "Sin_sensor":{
+    "NO":{
       "LCD (RepRap)":"PK1,NO,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK1,NO,Tactil (Kuttercraft)",
       "Oled":"PK1,NO,Oled"
     }
   },
   "PK2":{
-    "Con_sensor":{
+    "SI":{
       "LCD (RepRap)":"PK2,SI,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK2,SI,Tactil (Kuttercraft)",
       "Oled":"PK2,SI,Oled"
     },
-    "Sin_sensor":{
+    "NO":{
       "LCD (RepRap)":"PK2,NO,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK2,NO,Tactil (Kuttercraft)",
       "Oled":"PK2,NO,Oled"
     }
   },
   "PK2++":{
-    "Con_sensor":{
+    "SI":{
       "LCD (RepRap)":"PK2++,SI,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK2++,SI,Tactil (Kuttercraft)",
       "Oled":"PK2++,SI,Oled"
     },
-    "Sin_sensor":{
+    "NO":{
       "LCD (RepRap)":"PK2++,NO,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK2++,NO,Tactil (Kuttercraft)",
       "Oled":"PK2++,NO,Oled"
     }
   },
   "PK3":{
-    "Con_sensor":{
+    "SI":{
       "LCD (RepRap)":"PK3,SI,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK3,SI,Tactil (Kuttercraft)",
       "Oled":"PK3,SI,Oled"
     },
-    "Sin_sensor":{
+    "NO":{
       "LCD (RepRap)":"PK2++,NO,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK2++,NO,Tactil (Kuttercraft)",
       "Oled":"PK2++,NO,Oled"
     }
   },
   "PK3++":{
-    "Con_sensor":{
+    "SI":{
       "LCD (RepRap)":"PK3++,SI,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK3++,SI,Tactil (Kuttercraft)",
       "Oled":"PK3++,SI,Oled"
     },
-    "Sin_sensor":{
+    "NO":{
       "LCD (RepRap)":"PK2++,NO,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK2++,NO,Tactil (Kuttercraft)",
       "Oled":"PK2++,NO,Oled"
     }
   },
   "PK3++ EXTENDIDA":{
-    "Con_sensor":{
+    "SI":{
       "LCD (RepRap)":"PK3++_EXTENDIDA,SI,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK3++_EXTENDIDA,SI,Tactil (Kuttercraft)",
       "Oled":"PK3++_EXTENDIDA,SI,Oled"
     },
-    "Sin_sensor":{
+    "NO":{
       "LCD (RepRap)":"PK3++_EXTENDIDA,NO,LCD (RepRap)",
       "Tactil (Kuttercraft)":"PK3++_EXTENDIDA,NO,Tactil (Kuttercraft)",
       "Oled":"PK3++_EXTENDIDA,NO,Oled"
