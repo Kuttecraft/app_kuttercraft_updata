@@ -49,8 +49,8 @@
   },
   "PK3++":{
     "SI":{
-      "LCD (RepRap)":"PK3++,SI,LCD (RepRap)",
-      "Firmware/PK3++/SI/LCD (RepRap)/PK3_SI_LCD_3_5_5.hex",
+      "LCD (RepRap)":"Firmware/PK3++/SI/LCD (RepRap)/PK3_SI_LCD_3_5_5.hex",
+      "Tactil (Kuttercraft)":"PK3++,SI,Tactil (Kuttercraft)",
       "Oled":"PK3++,SI,Oled"
     },
     "NO":{
