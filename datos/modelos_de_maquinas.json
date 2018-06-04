@@ -1,74 +1,74 @@
 {
   "PK1":{
     "SI":{
-      "LCD_(RepRap)":"PK1,SI,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK1,SI,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK1,SI,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK1/SI/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK1/SI/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK1/SI/Oled/kuttercraft_firmware.hex"
     },
     "NO":{
-      "LCD_(RepRap)":"PK1,NO,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK1,NO,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK1,NO,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK1/NO/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK1/NO/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK1/NO/Oled/kuttercraft_firmware.hex"
     }
   },
   "PK2":{
     "SI":{
-      "LCD_(RepRap)":"PK2,SI,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK2,SI,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK2,SI,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2/SI/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2/SI/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2/SI/Oled/kuttercraft_firmware.hex"
     },
     "NO":{
-      "LCD_(RepRap)":"PK2,NO,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK2,NO,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK2,NO,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2/NO/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2/NO/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2/NO/Oled/kuttercraft_firmware.hex"
     }
   },
   "PK2++":{
     "SI":{
-      "LCD_(RepRap)":"PK2++,SI,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK2++,SI,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK2++,SI,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2%2B%2B/SI/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2%2B%2B/SI/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2%2B%2B/SI/Oled/kuttercraft_firmware.hex"
     },
     "NO":{
-      "LCD_(RepRap)":"PK2++,NO,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK2++,NO,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK2++,NO,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2%2B%2B/NO/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2%2B%2B/NO/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK2%2B%2B/NO/Oled/kuttercraft_firmware.hex"
     }
   },
   "PK3":{
     "SI":{
-      "LCD_(RepRap)":"PK3,SI,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK3,SI,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK3,SI,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3/SI/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3/SI/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3/SI/Oled/kuttercraft_firmware.hex"
     },
     "NO":{
-      "LCD_(RepRap)":"PK2++,NO,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK2++,NO,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK2++,NO,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3/NO/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3/NO/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3/NO/Oled/kuttercraft_firmware.hex"
     }
   },
   "PK3++":{
     "SI":{
-      "LCD_(RepRap)":"Firmware/PK3++/SI/LCD_(RepRap)/PK3_SI_LCD_3_5_5.hex",
-      "Tactil_(Kuttercraft)":"Firmware/PK3++/SI/LCD_(RepRap)/PK3_SI_LCD_3_5_5.hex",
-      "Oled_(Kuttercraft)":"PK3++,SI,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B/SI/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B/SI/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B/SI/Oled/kuttercraft_firmware.hex"
     },
     "NO":{
-      "LCD_(RepRap)":"PK2++,NO,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK2++,NO,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK2++,NO,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B/SI/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B/SI/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B/SI/Oled/kuttercraft_firmware.hex"
     }
   },
   "PK3++ EXTENDIDA":{
     "SI":{
-      "LCD_(RepRap)":"PK3++_EXTENDIDA,SI,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK3++_EXTENDIDA,SI,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK3++_EXTENDIDA,SI,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B_EXTENDIDA/SI/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B_EXTENDIDA/SI/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B_EXTENDIDA/SI/Oled/kuttercraft_firmware.hex"
     },
     "NO":{
-      "LCD_(RepRap)":"PK3++_EXTENDIDA,NO,LCD_(RepRap)",
-      "Tactil_(Kuttercraft)":"PK3++_EXTENDIDA,NO,Tactil_(Kuttercraft)",
-      "Oled_(Kuttercraft)":"PK3++_EXTENDIDA,NO,Oled_(Kuttercraft)"
+      "LCD_(RepRap)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B_EXTENDIDA/SI/LCD_RepRap/kuttercraft_firmware.hex",
+      "Tactil_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B_EXTENDIDA/SI/Tactil_Kuttercraft/kuttercraft_firmware.hex",
+      "Oled_(Kuttercraft)":"https://raw.githubusercontent.com/Kuttecraft/app_kuttercraft_updata/master/Firmware/PK3%2B%2B_EXTENDIDA/SI/Oled/kuttercraft_firmware.hex"
     }
   }
 }
